@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="" />
+<img src="./banner.svg" width="100%" alt="" />
 
 <br><br>
 
-<a href="#"><img src="https://img.shields.io/badge/linkedin-16130f?style=for-the-badge&logo=linkedin&logoColor=e8dcc8" /></a>
-<a href="#"><img src="https://img.shields.io/badge/gmail-16130f?style=for-the-badge&logo=gmail&logoColor=e8dcc8" /></a>
-<a href="#"><img src="https://img.shields.io/badge/portfolio-16130f?style=for-the-badge&logo=aboutdotme&logoColor=e8dcc8" /></a>
+<a href="#"><img src="https://img.shields.io/badge/linkedin-16264a?style=for-the-badge&logo=linkedin&logoColor=e9dcc0" /></a>
+<a href="#"><img src="https://img.shields.io/badge/gmail-7a1f3d?style=for-the-badge&logo=gmail&logoColor=e9dcc0" /></a>
+<a href="#"><img src="https://img.shields.io/badge/portfolio-16264a?style=for-the-badge&logo=aboutdotme&logoColor=e9dcc0" /></a>
 
 </div>
 
@@ -14,31 +14,31 @@
 
 ---
 
-<h3 align="center">the squad</h3>
+<h3 align="center">❖&nbsp;&nbsp;<i>the squad</i></h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/go-16130f?style=for-the-badge&logo=go&logoColor=e8dcc8" />
-<img src="https://img.shields.io/badge/c-16130f?style=for-the-badge&logo=c&logoColor=e8dcc8" />
-<img src="https://img.shields.io/badge/python-16130f?style=for-the-badge&logo=python&logoColor=e8dcc8" />
-<img src="https://img.shields.io/badge/dart-16130f?style=for-the-badge&logo=dart&logoColor=e8dcc8" />
-<img src="https://img.shields.io/badge/javascript-16130f?style=for-the-badge&logo=javascript&logoColor=e8dcc8" />
+<img src="https://img.shields.io/badge/go-16264a?style=for-the-badge&logo=go&logoColor=e9dcc0" />
+<img src="https://img.shields.io/badge/c-7a1f3d?style=for-the-badge&logo=c&logoColor=e9dcc0" />
+<img src="https://img.shields.io/badge/python-16264a?style=for-the-badge&logo=python&logoColor=e9dcc0" />
+<img src="https://img.shields.io/badge/dart-7a1f3d?style=for-the-badge&logo=dart&logoColor=e9dcc0" />
+<img src="https://img.shields.io/badge/javascript-16264a?style=for-the-badge&logo=javascript&logoColor=e9dcc0" />
 
 <br>
 
-<img src="https://img.shields.io/badge/flutter-16130f?style=for-the-badge&logo=flutter&logoColor=e8dcc8" />
-<img src="https://img.shields.io/badge/react-16130f?style=for-the-badge&logo=react&logoColor=e8dcc8" />
-<img src="https://img.shields.io/badge/node.js-16130f?style=for-the-badge&logo=nodedotjs&logoColor=e8dcc8" />
-<img src="https://img.shields.io/badge/firebase-16130f?style=for-the-badge&logo=firebase&logoColor=e8dcc8" />
-<img src="https://img.shields.io/badge/postgresql-16130f?style=for-the-badge&logo=postgresql&logoColor=e8dcc8" />
+<img src="https://img.shields.io/badge/flutter-7a1f3d?style=for-the-badge&logo=flutter&logoColor=e9dcc0" />
+<img src="https://img.shields.io/badge/react-16264a?style=for-the-badge&logo=react&logoColor=e9dcc0" />
+<img src="https://img.shields.io/badge/node.js-7a1f3d?style=for-the-badge&logo=nodedotjs&logoColor=e9dcc0" />
+<img src="https://img.shields.io/badge/firebase-16264a?style=for-the-badge&logo=firebase&logoColor=e9dcc0" />
+<img src="https://img.shields.io/badge/postgresql-7a1f3d?style=for-the-badge&logo=postgresql&logoColor=e9dcc0" />
 
 <br>
 
-<img src="https://img.shields.io/badge/llvm-16130f?style=for-the-badge&logo=llvm&logoColor=e8dcc8" />
-<img src="https://img.shields.io/badge/linux-16130f?style=for-the-badge&logo=linux&logoColor=e8dcc8" />
-<img src="https://img.shields.io/badge/git-16130f?style=for-the-badge&logo=git&logoColor=e8dcc8" />
-<img src="https://img.shields.io/badge/docker-16130f?style=for-the-badge&logo=docker&logoColor=e8dcc8" />
-<img src="https://img.shields.io/badge/figma-16130f?style=for-the-badge&logo=figma&logoColor=e8dcc8" />
+<img src="https://img.shields.io/badge/llvm-16264a?style=for-the-badge&logo=llvm&logoColor=e9dcc0" />
+<img src="https://img.shields.io/badge/linux-7a1f3d?style=for-the-badge&logo=linux&logoColor=e9dcc0" />
+<img src="https://img.shields.io/badge/git-16264a?style=for-the-badge&logo=git&logoColor=e9dcc0" />
+<img src="https://img.shields.io/badge/docker-7a1f3d?style=for-the-badge&logo=docker&logoColor=e9dcc0" />
+<img src="https://img.shields.io/badge/figma-16264a?style=for-the-badge&logo=figma&logoColor=e9dcc0" />
 
 </div>
 
@@ -46,16 +46,16 @@
 
 ---
 
-<h3 align="center">the numbers</h3>
+<h3 align="center">❖&nbsp;&nbsp;<i>the numbers</i></h3>
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=mehul1three&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=8b8880&icon_color=c9b892&title_color=e8dcc8" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehul1three&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=8b8880&title_color=e8dcc8" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=mehul1three&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=9fb0cc&icon_color=a50044&title_color=e9dcc0" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehul1three&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=9fb0cc&title_color=e9dcc0" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehul1three&bg_color=0d1117&color=e8dcc8&line=c9b892&point=e8dcc8&area=true&area_color=2a241c&hide_border=true&custom_title=contributions" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehul1three&bg_color=0b1226&color=e9dcc0&line=a50044&point=e9dcc0&area=true&area_color=16264a&hide_border=true&custom_title=contributions" width="90%" />
 
 <br>
 
@@ -67,61 +67,118 @@
 
 ---
 
-<h3 align="center">about</h3>
+<h3 align="center">❖&nbsp;&nbsp;<i>about</i></h3>
 
-<div align="center">
+<table>
+<tr>
+<td width="38%" align="center">
 
-cs student. i work somewhere between the compiler and the interface — go and c when
-something needs to be fast and quiet, flutter and react when someone actually has to
+<img src="./avatar.png" width="100%" alt="" />
+
+</td>
+<td width="62%">
+
+cs student. i work somewhere between the compiler and the interface — **go** and **c** when
+something needs to be fast and quiet, **flutter** and **react** when someone actually has to
 use it. most of what i build started as an annoyance i refused to live with.
 
-<br><br>
+<br>
 
-open source contributor to <b>lfortran</b>, an ahead-of-time fortran compiler.
-fixed-form parsing, intrinsic lowering, the kind of work where one off-by-one costs you the match.
+open source contributor to **lfortran**, an ahead-of-time fortran compiler. fixed-form
+parsing, intrinsic lowering, the kind of work where one off-by-one costs you the match.
 
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
 ---
 
-<h3 align="center">on the pitch</h3>
+<h3 align="center">❖&nbsp;&nbsp;<i>on the pitch</i></h3>
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<b>portkey</b> · local dns resolver and ad blocker in go
-<br><sub>live dashboard over websockets, ~99k domain blocklist, query analytics in react</sub>
+#### portkey
+local dns resolver and ad blocker in go
 
-<br><br>
+<sub>live dashboard over websockets, ~99k domain blocklist, query analytics in react</sub>
 
-<b>qaption</b> · ai video captioning platform
-<br><sub>flutter front end, pipeline work behind it</sub>
+<img src="https://img.shields.io/badge/go-16264a?style=flat-square&logo=go&logoColor=e9dcc0" />
+<img src="https://img.shields.io/badge/react-7a1f3d?style=flat-square&logo=react&logoColor=e9dcc0" />
 
-<br><br>
+</td>
+<td width="50%" valign="top">
 
-<b>spendly</b> · expense splitting with greedy debt simplification
-<br><sub>cuts settlement transactions by up to 74% in benchmarks</sub>
+#### qaption
+ai video captioning platform
 
-</div>
+<sub>flutter front end, transcription and render pipeline behind it</sub>
+
+<img src="https://img.shields.io/badge/flutter-16264a?style=flat-square&logo=flutter&logoColor=e9dcc0" />
+<img src="https://img.shields.io/badge/python-7a1f3d?style=flat-square&logo=python&logoColor=e9dcc0" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### spendly
+expense splitting with greedy debt simplification
+
+<sub>cuts settlement transactions by up to 74% in benchmarks</sub>
+
+<img src="https://img.shields.io/badge/dart-16264a?style=flat-square&logo=dart&logoColor=e9dcc0" />
+<img src="https://img.shields.io/badge/firebase-7a1f3d?style=flat-square&logo=firebase&logoColor=e9dcc0" />
+
+</td>
+<td width="50%" valign="top">
+
+#### lfortran
+ahead-of-time fortran compiler · contributor
+
+<sub>fixed-form parsing, intrinsic lowering, upstream patches</sub>
+
+<img src="https://img.shields.io/badge/c%2B%2B-16264a?style=flat-square&logo=cplusplus&logoColor=e9dcc0" />
+<img src="https://img.shields.io/badge/llvm-7a1f3d?style=flat-square&logo=llvm&logoColor=e9dcc0" />
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ---
 
-<h3 align="center">off the pitch</h3>
+<h3 align="center">❖&nbsp;&nbsp;<i>off the pitch</i></h3>
 
-<div align="center">
+<table>
+<tr>
+<td width="62%">
 
 competitive programming, half-finished side projects, and reading compiler source
 at hours i should not be awake for.
 
-<br><br>
+<br>
 
-open to internships and engineering roles.
-<br>if the fixture looks interesting, get in touch.
+open to internships and engineering roles. if the fixture looks interesting, get in touch.
 
-<br><br>
+</td>
+<td width="38%" align="center">
+
+<img src="./mascot.png" width="100%" alt="" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
 
 <sub>ninety minutes is the minimum</sub>
 
