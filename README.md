@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="" />
+<img src="./banner.svg" width="100%" alt="mehul kale - cse student; compilers, systems, interfaces" />
 
 <br><br>
 
@@ -73,7 +73,7 @@
 <tr>
 <td width="38%" align="center">
 
-<img src="./avatar.png" width="100%" alt="" />
+<img src="./avatar.png" width="100%" alt="lionel messi in a 2010 barcelona shirt" />
 
 </td>
 <td width="62%">
@@ -168,7 +168,7 @@ open to internships and engineering roles. if the fixture looks interesting, get
 </td>
 <td width="38%" align="center">
 
-<img src="./mascot.png" width="100%" alt="" />
+<img src="./mascot.png" width="100%" alt="doodle of a round face with a stitched mouth" />
 
 </td>
 </tr>
