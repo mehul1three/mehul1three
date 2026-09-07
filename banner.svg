@@ -1,14 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-label="mehul1three - mehul kale, cse student">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="mehul1three - mehul kale, cse student">
   <defs>
-    <!-- dark blaugrana-tinted backdrop -->
-    <pattern id="bgstripes" width="120" height="560" patternUnits="userSpaceOnUse">
-      <rect x="0"   width="40" height="560" fill="#0a1120"/>
-      <rect x="40"  width="40" height="560" fill="#0d1729"/>
-      <rect x="80"  width="20" height="560" fill="#120d19"/>
-      <rect x="100" width="20" height="560" fill="#0a1120"/>
+    <pattern id="bgstripes" width="120" height="300" patternUnits="userSpaceOnUse">
+      <rect x="0"   width="40" height="300" fill="#0a1120"/>
+      <rect x="40"  width="40" height="300" fill="#0d1729"/>
+      <rect x="80"  width="20" height="300" fill="#120d19"/>
+      <rect x="100" width="20" height="300" fill="#0a1120"/>
     </pattern>
 
-    <!-- wordmark: garnet into blue -->
     <linearGradient id="blaugrana" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%"   stop-color="#c1123f"/>
       <stop offset="44%"  stop-color="#a50044"/>
@@ -39,29 +37,25 @@
     </linearGradient>
 
     <style>
-      .lamp { animation-duration: 12s; animation-iteration-count: infinite; animation-timing-function: linear; opacity: 0; }
+      .lamp { animation-duration: 6s; animation-iteration-count: infinite; animation-timing-function: linear; opacity: 0; }
       .c1 { animation-name: L1; }
       .c2 { animation-name: L2; }
       .c3 { animation-name: L3; }
       .c4 { animation-name: L4; }
       .c5 { animation-name: L5; }
 
-      /* one lamp arms per second, all hold, then lights out at 6.5s */
-      @keyframes L1 { 0%,8.2%  {opacity:0} 8.4%,54.1%  {opacity:1} 54.3%,100% {opacity:0} }
-      @keyframes L2 { 0%,16.5% {opacity:0} 16.7%,54.1% {opacity:1} 54.3%,100% {opacity:0} }
-      @keyframes L3 { 0%,24.8% {opacity:0} 25.0%,54.1% {opacity:1} 54.3%,100% {opacity:0} }
-      @keyframes L4 { 0%,33.1% {opacity:0} 33.3%,54.1% {opacity:1} 54.3%,100% {opacity:0} }
-      @keyframes L5 { 0%,41.5% {opacity:0} 41.7%,54.1% {opacity:1} 54.3%,100% {opacity:0} }
+      /* 6s loop: a lamp every 0.4s, brief hold, lights out at 3s, card holds ~2.4s */
+      @keyframes L1 { 0%,8.0%  {opacity:0} 8.3%,49.6%  {opacity:1} 50%,100% {opacity:0} }
+      @keyframes L2 { 0%,14.7% {opacity:0} 15.0%,49.6% {opacity:1} 50%,100% {opacity:0} }
+      @keyframes L3 { 0%,21.4% {opacity:0} 21.7%,49.6% {opacity:1} 50%,100% {opacity:0} }
+      @keyframes L4 { 0%,28.0% {opacity:0} 28.3%,49.6% {opacity:1} 50%,100% {opacity:0} }
+      @keyframes L5 { 0%,34.7% {opacity:0} 35.0%,49.6% {opacity:1} 50%,100% {opacity:0} }
 
-      /* card rises the moment the lights go out, holds ~4s */
-      .reveal {
-        opacity: 0;
-        animation: reveal 12s infinite cubic-bezier(.2,.7,.3,1);
-      }
+      .reveal { opacity: 0; animation: reveal 6s infinite cubic-bezier(.2,.7,.3,1); }
       @keyframes reveal {
-        0%, 54.3%   { opacity: 0; transform: translateY(16px); }
-        59.2%, 87.5% { opacity: 1; transform: translateY(0); }
-        91.7%, 100%  { opacity: 0; transform: translateY(0); }
+        0%, 50%      { opacity: 0; transform: translateY(10px); }
+        58.3%, 90%   { opacity: 1; transform: translateY(0); }
+        95%, 100%    { opacity: 0; transform: translateY(0); }
       }
 
       @media (prefers-reduced-motion: reduce) {
@@ -70,77 +64,73 @@
     </style>
   </defs>
 
-  <rect width="1200" height="560" fill="url(#bgstripes)"/>
+  <rect width="1200" height="300" fill="url(#bgstripes)"/>
 
-  <!-- gantry beam, behind the housing -->
-  <rect x="0" y="105" width="1200" height="14" fill="#2b323f"/>
-  <rect x="0" y="105" width="1200" height="3" fill="#3a4354"/>
+  <rect x="0" y="58" width="1200" height="10" fill="#2b323f"/>
+  <rect x="0" y="58" width="1200" height="2" fill="#3a4354"/>
 
-  <!-- light pods, drawn under the housing so they read as attached -->
   <g>
-    <g transform="translate(301,0)">
-      <rect x="0" y="205" width="110" height="165" rx="12" fill="#08090d"/>
-      <circle cx="55" cy="253" r="34" fill="#2f3641"/>
-      <circle cx="55" cy="327" r="34" fill="#2f3641"/>
-      <circle class="lamp c1" cx="55" cy="253" r="56" fill="url(#glow)"/>
-      <circle class="lamp c1" cx="55" cy="327" r="56" fill="url(#glow)"/>
-      <circle class="lamp c1" cx="55" cy="253" r="34" fill="#a50044"/>
-      <circle class="lamp c1" cx="55" cy="327" r="34" fill="#a50044"/>
+    <g transform="translate(350,0)">
+      <rect x="0" y="110" width="92" height="82" rx="9" fill="#08090d"/>
+      <circle cx="46" cy="131" r="17" fill="#2f3641"/>
+      <circle cx="46" cy="172" r="17" fill="#2f3641"/>
+      <circle class="lamp c1" cx="46" cy="131" r="30" fill="url(#glow)"/>
+      <circle class="lamp c1" cx="46" cy="172" r="30" fill="url(#glow)"/>
+      <circle class="lamp c1" cx="46" cy="131" r="17" fill="#a50044"/>
+      <circle class="lamp c1" cx="46" cy="172" r="17" fill="#a50044"/>
     </g>
-    <g transform="translate(423,0)">
-      <rect x="0" y="205" width="110" height="165" rx="12" fill="#08090d"/>
-      <circle cx="55" cy="253" r="34" fill="#2f3641"/>
-      <circle cx="55" cy="327" r="34" fill="#2f3641"/>
-      <circle class="lamp c2" cx="55" cy="253" r="56" fill="url(#glow)"/>
-      <circle class="lamp c2" cx="55" cy="327" r="56" fill="url(#glow)"/>
-      <circle class="lamp c2" cx="55" cy="253" r="34" fill="#a50044"/>
-      <circle class="lamp c2" cx="55" cy="327" r="34" fill="#a50044"/>
+    <g transform="translate(452,0)">
+      <rect x="0" y="110" width="92" height="82" rx="9" fill="#08090d"/>
+      <circle cx="46" cy="131" r="17" fill="#2f3641"/>
+      <circle cx="46" cy="172" r="17" fill="#2f3641"/>
+      <circle class="lamp c2" cx="46" cy="131" r="30" fill="url(#glow)"/>
+      <circle class="lamp c2" cx="46" cy="172" r="30" fill="url(#glow)"/>
+      <circle class="lamp c2" cx="46" cy="131" r="17" fill="#a50044"/>
+      <circle class="lamp c2" cx="46" cy="172" r="17" fill="#a50044"/>
     </g>
-    <g transform="translate(545,0)">
-      <rect x="0" y="205" width="110" height="165" rx="12" fill="#08090d"/>
-      <circle cx="55" cy="253" r="34" fill="#2f3641"/>
-      <circle cx="55" cy="327" r="34" fill="#2f3641"/>
-      <circle class="lamp c3" cx="55" cy="253" r="56" fill="url(#glow)"/>
-      <circle class="lamp c3" cx="55" cy="327" r="56" fill="url(#glow)"/>
-      <circle class="lamp c3" cx="55" cy="253" r="34" fill="#a50044"/>
-      <circle class="lamp c3" cx="55" cy="327" r="34" fill="#a50044"/>
+    <g transform="translate(554,0)">
+      <rect x="0" y="110" width="92" height="82" rx="9" fill="#08090d"/>
+      <circle cx="46" cy="131" r="17" fill="#2f3641"/>
+      <circle cx="46" cy="172" r="17" fill="#2f3641"/>
+      <circle class="lamp c3" cx="46" cy="131" r="30" fill="url(#glow)"/>
+      <circle class="lamp c3" cx="46" cy="172" r="30" fill="url(#glow)"/>
+      <circle class="lamp c3" cx="46" cy="131" r="17" fill="#a50044"/>
+      <circle class="lamp c3" cx="46" cy="172" r="17" fill="#a50044"/>
     </g>
-    <g transform="translate(667,0)">
-      <rect x="0" y="205" width="110" height="165" rx="12" fill="#08090d"/>
-      <circle cx="55" cy="253" r="34" fill="#2f3641"/>
-      <circle cx="55" cy="327" r="34" fill="#2f3641"/>
-      <circle class="lamp c4" cx="55" cy="253" r="56" fill="url(#glow)"/>
-      <circle class="lamp c4" cx="55" cy="327" r="56" fill="url(#glow)"/>
-      <circle class="lamp c4" cx="55" cy="253" r="34" fill="#a50044"/>
-      <circle class="lamp c4" cx="55" cy="327" r="34" fill="#a50044"/>
+    <g transform="translate(656,0)">
+      <rect x="0" y="110" width="92" height="82" rx="9" fill="#08090d"/>
+      <circle cx="46" cy="131" r="17" fill="#2f3641"/>
+      <circle cx="46" cy="172" r="17" fill="#2f3641"/>
+      <circle class="lamp c4" cx="46" cy="131" r="30" fill="url(#glow)"/>
+      <circle class="lamp c4" cx="46" cy="172" r="30" fill="url(#glow)"/>
+      <circle class="lamp c4" cx="46" cy="131" r="17" fill="#a50044"/>
+      <circle class="lamp c4" cx="46" cy="172" r="17" fill="#a50044"/>
     </g>
-    <g transform="translate(789,0)">
-      <rect x="0" y="205" width="110" height="165" rx="12" fill="#08090d"/>
-      <circle cx="55" cy="253" r="34" fill="#2f3641"/>
-      <circle cx="55" cy="327" r="34" fill="#2f3641"/>
-      <circle class="lamp c5" cx="55" cy="253" r="56" fill="url(#glow)"/>
-      <circle class="lamp c5" cx="55" cy="327" r="56" fill="url(#glow)"/>
-      <circle class="lamp c5" cx="55" cy="253" r="34" fill="#a50044"/>
-      <circle class="lamp c5" cx="55" cy="327" r="34" fill="#a50044"/>
+    <g transform="translate(758,0)">
+      <rect x="0" y="110" width="92" height="82" rx="9" fill="#08090d"/>
+      <circle cx="46" cy="131" r="17" fill="#2f3641"/>
+      <circle cx="46" cy="172" r="17" fill="#2f3641"/>
+      <circle class="lamp c5" cx="46" cy="131" r="30" fill="url(#glow)"/>
+      <circle class="lamp c5" cx="46" cy="172" r="30" fill="url(#glow)"/>
+      <circle class="lamp c5" cx="46" cy="131" r="17" fill="#a50044"/>
+      <circle class="lamp c5" cx="46" cy="172" r="17" fill="#a50044"/>
     </g>
   </g>
 
-  <!-- housing -->
-  <rect x="290" y="45" width="620" height="165" rx="20" fill="url(#housing)"/>
+  <rect x="330" y="22" width="540" height="90" rx="14" fill="url(#housing)"/>
 
-  <text x="600" y="148" text-anchor="middle" fill="url(#blaugrana)"
+  <text x="600" y="80" text-anchor="middle" fill="url(#blaugrana)"
         font-family="'SF Mono','JetBrains Mono','Fira Code',ui-monospace,Menlo,Consolas,monospace"
-        font-size="58" font-weight="700" letter-spacing="8">mehul1three</text>
+        font-size="42" font-weight="700" letter-spacing="5">mehul1three</text>
 
-  <!-- detail card, revealed on lights out -->
   <g class="reveal" font-family="'SF Mono','JetBrains Mono','Fira Code',ui-monospace,Menlo,Consolas,monospace">
-    <rect x="290" y="398" width="620" height="108" rx="14" fill="#0e1422" stroke="#2b3446" stroke-width="1.5"/>
-    <rect x="312" y="418" width="4" height="70" rx="2" fill="url(#accent)"/>
+    <rect x="330" y="212" width="540" height="76" rx="12" fill="#0e1422" stroke="#2b3446" stroke-width="1.5"/>
+    <rect x="348" y="226" width="3" height="48" rx="1.5" fill="url(#accent)"/>
 
-    <text x="334" y="448" fill="#e9dcc0" font-size="34" font-weight="700" letter-spacing="3">mehul kale</text>
-    <text x="334" y="481" fill="#9fb0cc" font-size="17" letter-spacing="1.5">cse student &#183; compilers, systems, interfaces</text>
-    <text x="886" y="444" text-anchor="end" fill="#7d8ba6" font-size="15" letter-spacing="1.5">open to internships</text>
+    <text x="366" y="249" fill="#e9dcc0" font-size="25" font-weight="700" letter-spacing="2">mehul kale</text>
+    <text x="366" y="273" fill="#9fb0cc" font-size="14" letter-spacing="1">cse student &#183; compilers, systems, interfaces</text>
+    <text x="852" y="246" text-anchor="end" fill="#7d8ba6" font-size="12.5" letter-spacing="1">open to internships</text>
   </g>
 
-  <rect x="0" y="555" width="1200" height="5" fill="url(#hem)"/>
+  <rect x="0" y="294" width="1200" height="6" fill="url(#hem)"/>
 </svg>

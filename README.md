@@ -67,82 +67,41 @@
 
 ---
 
-<h3 align="center">❖&nbsp;&nbsp;<i>about</i></h3>
-
-<table>
-<tr>
-<td width="38%" align="center">
-
-<img src="./avatar.png" width="100%" alt="lionel messi in a 2010 barcelona shirt" />
-
-</td>
-<td width="62%">
-
-cs student. i work somewhere between the compiler and the interface — **go** and **c** when
-something needs to be fast and quiet, **flutter** and **react** when someone actually has to
-use it. most of what i build started as an annoyance i refused to live with.
-
-<br>
-
-open source contributor to **lfortran**, an ahead-of-time fortran compiler. fixed-form
-parsing, intrinsic lowering, the kind of work where one off-by-one costs you the match.
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
 <h3 align="center">❖&nbsp;&nbsp;<i>on the pitch</i></h3>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### portkey
-local dns resolver and ad blocker in go
+#### [visoto](https://github.com/mehul1three/visoto)
+your room is the level
 
-<sub>live dashboard over websockets, ~99k domain blocklist, query analytics in react</sub>
+<sub>photograph anything and it becomes a playable platformer. objects get physics from what they **are** — cushions bounce, hot coffee is a hazard, glass is slippery.</sub>
 
-<img src="https://img.shields.io/badge/go-16264a?style=flat-square&logo=go&logoColor=e9dcc0" />
-<img src="https://img.shields.io/badge/react-7a1f3d?style=flat-square&logo=react&logoColor=e9dcc0" />
-
-</td>
-<td width="50%" valign="top">
-
-#### qaption
-ai video captioning platform
-
-<sub>flutter front end, transcription and render pipeline behind it</sub>
-
-<img src="https://img.shields.io/badge/flutter-16264a?style=flat-square&logo=flutter&logoColor=e9dcc0" />
-<img src="https://img.shields.io/badge/python-7a1f3d?style=flat-square&logo=python&logoColor=e9dcc0" />
+<a href="https://playground-kohl-nine.vercel.app"><img src="https://img.shields.io/badge/live-7a1f3d?style=flat-square&logoColor=e9dcc0" /></a>
+<img src="https://img.shields.io/badge/typescript-16264a?style=flat-square&logo=typescript&logoColor=e9dcc0" />
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### spendly
-expense splitting with greedy debt simplification
+#### [fine-print](https://github.com/mehul1three/fine-print)
+read it before you sign it
 
-<sub>cuts settlement transactions by up to 74% in benchmarks</sub>
+<sub>paste a lease or a contract and every clause that can hurt you comes back ranked by severity, explained in plain english, and highlighted in the original.</sub>
 
-<img src="https://img.shields.io/badge/dart-16264a?style=flat-square&logo=dart&logoColor=e9dcc0" />
-<img src="https://img.shields.io/badge/firebase-7a1f3d?style=flat-square&logo=firebase&logoColor=e9dcc0" />
+<a href="https://fine-print-gamma.vercel.app"><img src="https://img.shields.io/badge/live-7a1f3d?style=flat-square&logoColor=e9dcc0" /></a>
+<img src="https://img.shields.io/badge/typescript-16264a?style=flat-square&logo=typescript&logoColor=e9dcc0" />
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### lfortran
-ahead-of-time fortran compiler · contributor
+#### [PathCheck](https://github.com/mehul1three/PathCheck)
+static timing analysis for digital circuits
 
-<sub>fixed-form parsing, intrinsic lowering, upstream patches</sub>
+<sub>c++17, zero dependencies. arrival and required times, slack, critical paths, json reports, and a no-build browser viewer.</sub>
 
-<img src="https://img.shields.io/badge/c%2B%2B-16264a?style=flat-square&logo=cplusplus&logoColor=e9dcc0" />
-<img src="https://img.shields.io/badge/llvm-7a1f3d?style=flat-square&logo=llvm&logoColor=e9dcc0" />
+<img src="https://img.shields.io/badge/c%2B%2B17-16264a?style=flat-square&logo=cplusplus&logoColor=e9dcc0" />
+<img src="https://img.shields.io/badge/zero%20deps-7a1f3d?style=flat-square&logoColor=e9dcc0" />
 
 </td>
 </tr>
@@ -154,25 +113,16 @@ ahead-of-time fortran compiler · contributor
 
 <h3 align="center">❖&nbsp;&nbsp;<i>off the pitch</i></h3>
 
-<table>
-<tr>
-<td width="62%">
+<div align="center">
 
 competitive programming, half-finished side projects, and reading compiler source
 at hours i should not be awake for.
 
-<br>
+<br><br>
 
 open to internships and engineering roles. if the fixture looks interesting, get in touch.
 
-</td>
-<td width="38%" align="center">
-
-<img src="./mascot.png" width="100%" alt="doodle of a round face with a stitched mouth" />
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
