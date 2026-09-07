@@ -45,8 +45,12 @@
 
 <img src="https://streak-stats.demolab.com/?user=mehul1three&hide_border=true&background=00000000&stroke=2b3446&ring=a50044&fire=c1123f&currStreakNum=e9dcc0&currStreakLabel=9fb0cc&sideNums=e9dcc0&sideLabels=9fb0cc&dates=7d8ba6&excludeDaysLabel=7d8ba6" alt="Current streak, longest streak and total contributions" />
 
+<br><br>
+
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehul1three&theme=github_dark" alt="Repositories per language" />
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehul1three&theme=github_dark" alt="Most committed language" />
+
+<br>
 
 <sub>No xG model for commits, but the form has been steady.</sub>
 
