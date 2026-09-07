@@ -19,10 +19,34 @@
       <stop offset="100%" stop-color="#2a63c4"/>
     </linearGradient>
 
-    <radialGradient id="glow">
-      <stop offset="0%"   stop-color="#d4145a" stop-opacity="0.60"/>
-      <stop offset="55%"  stop-color="#a50044" stop-opacity="0.20"/>
-      <stop offset="100%" stop-color="#a50044" stop-opacity="0"/>
+    <radialGradient id="glow1">
+      <stop offset="0%"   stop-color="#d67390" stop-opacity="0.60"/>
+      <stop offset="55%"  stop-color="#b90d40" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#b90d40" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glow2">
+      <stop offset="0%"   stop-color="#cf6e92" stop-opacity="0.60"/>
+      <stop offset="55%"  stop-color="#ad0543" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#ad0543" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glow3">
+      <stop offset="0%"   stop-color="#a07fa8" stop-opacity="0.60"/>
+      <stop offset="55%"  stop-color="#5c2369" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#5c2369" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glow4">
+      <stop offset="0%"   stop-color="#7a98c7" stop-opacity="0.60"/>
+      <stop offset="55%"  stop-color="#194e9f" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#194e9f" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glow5">
+      <stop offset="0%"   stop-color="#7fa0d4" stop-opacity="0.60"/>
+      <stop offset="55%"  stop-color="#235bb5" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#235bb5" stop-opacity="0"/>
     </radialGradient>
 
     <linearGradient id="housing" x1="0" y1="0" x2="0" y2="1">
@@ -74,46 +98,46 @@
       <rect x="0" y="110" width="92" height="82" rx="9" fill="#08090d"/>
       <circle cx="46" cy="131" r="17" fill="#2f3641"/>
       <circle cx="46" cy="172" r="17" fill="#2f3641"/>
-      <circle class="lamp c1" cx="46" cy="131" r="30" fill="url(#glow)"/>
-      <circle class="lamp c1" cx="46" cy="172" r="30" fill="url(#glow)"/>
-      <circle class="lamp c1" cx="46" cy="131" r="17" fill="#a50044"/>
-      <circle class="lamp c1" cx="46" cy="172" r="17" fill="#a50044"/>
+      <circle class="lamp c1" cx="46" cy="131" r="30" fill="url(#glow1)"/>
+      <circle class="lamp c1" cx="46" cy="172" r="30" fill="url(#glow1)"/>
+      <circle class="lamp c1" cx="46" cy="131" r="17" fill="#b90d40"/>
+      <circle class="lamp c1" cx="46" cy="172" r="17" fill="#b90d40"/>
     </g>
     <g transform="translate(452,0)">
       <rect x="0" y="110" width="92" height="82" rx="9" fill="#08090d"/>
       <circle cx="46" cy="131" r="17" fill="#2f3641"/>
       <circle cx="46" cy="172" r="17" fill="#2f3641"/>
-      <circle class="lamp c2" cx="46" cy="131" r="30" fill="url(#glow)"/>
-      <circle class="lamp c2" cx="46" cy="172" r="30" fill="url(#glow)"/>
-      <circle class="lamp c2" cx="46" cy="131" r="17" fill="#a50044"/>
-      <circle class="lamp c2" cx="46" cy="172" r="17" fill="#a50044"/>
+      <circle class="lamp c2" cx="46" cy="131" r="30" fill="url(#glow2)"/>
+      <circle class="lamp c2" cx="46" cy="172" r="30" fill="url(#glow2)"/>
+      <circle class="lamp c2" cx="46" cy="131" r="17" fill="#ad0543"/>
+      <circle class="lamp c2" cx="46" cy="172" r="17" fill="#ad0543"/>
     </g>
     <g transform="translate(554,0)">
       <rect x="0" y="110" width="92" height="82" rx="9" fill="#08090d"/>
       <circle cx="46" cy="131" r="17" fill="#2f3641"/>
       <circle cx="46" cy="172" r="17" fill="#2f3641"/>
-      <circle class="lamp c3" cx="46" cy="131" r="30" fill="url(#glow)"/>
-      <circle class="lamp c3" cx="46" cy="172" r="30" fill="url(#glow)"/>
-      <circle class="lamp c3" cx="46" cy="131" r="17" fill="#a50044"/>
-      <circle class="lamp c3" cx="46" cy="172" r="17" fill="#a50044"/>
+      <circle class="lamp c3" cx="46" cy="131" r="30" fill="url(#glow3)"/>
+      <circle class="lamp c3" cx="46" cy="172" r="30" fill="url(#glow3)"/>
+      <circle class="lamp c3" cx="46" cy="131" r="17" fill="#5c2369"/>
+      <circle class="lamp c3" cx="46" cy="172" r="17" fill="#5c2369"/>
     </g>
     <g transform="translate(656,0)">
       <rect x="0" y="110" width="92" height="82" rx="9" fill="#08090d"/>
       <circle cx="46" cy="131" r="17" fill="#2f3641"/>
       <circle cx="46" cy="172" r="17" fill="#2f3641"/>
-      <circle class="lamp c4" cx="46" cy="131" r="30" fill="url(#glow)"/>
-      <circle class="lamp c4" cx="46" cy="172" r="30" fill="url(#glow)"/>
-      <circle class="lamp c4" cx="46" cy="131" r="17" fill="#a50044"/>
-      <circle class="lamp c4" cx="46" cy="172" r="17" fill="#a50044"/>
+      <circle class="lamp c4" cx="46" cy="131" r="30" fill="url(#glow4)"/>
+      <circle class="lamp c4" cx="46" cy="172" r="30" fill="url(#glow4)"/>
+      <circle class="lamp c4" cx="46" cy="131" r="17" fill="#194e9f"/>
+      <circle class="lamp c4" cx="46" cy="172" r="17" fill="#194e9f"/>
     </g>
     <g transform="translate(758,0)">
       <rect x="0" y="110" width="92" height="82" rx="9" fill="#08090d"/>
       <circle cx="46" cy="131" r="17" fill="#2f3641"/>
       <circle cx="46" cy="172" r="17" fill="#2f3641"/>
-      <circle class="lamp c5" cx="46" cy="131" r="30" fill="url(#glow)"/>
-      <circle class="lamp c5" cx="46" cy="172" r="30" fill="url(#glow)"/>
-      <circle class="lamp c5" cx="46" cy="131" r="17" fill="#a50044"/>
-      <circle class="lamp c5" cx="46" cy="172" r="17" fill="#a50044"/>
+      <circle class="lamp c5" cx="46" cy="131" r="30" fill="url(#glow5)"/>
+      <circle class="lamp c5" cx="46" cy="172" r="30" fill="url(#glow5)"/>
+      <circle class="lamp c5" cx="46" cy="131" r="17" fill="#235bb5"/>
+      <circle class="lamp c5" cx="46" cy="172" r="17" fill="#235bb5"/>
     </g>
   </g>
 
