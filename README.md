@@ -4,9 +4,8 @@
 
 <br><br>
 
-<a href="#"><img src="https://img.shields.io/badge/linkedin-16264a?style=for-the-badge&logo=linkedin&logoColor=e9dcc0" /></a>
-<a href="#"><img src="https://img.shields.io/badge/gmail-7a1f3d?style=for-the-badge&logo=gmail&logoColor=e9dcc0" /></a>
-<a href="#"><img src="https://img.shields.io/badge/portfolio-16264a?style=for-the-badge&logo=aboutdotme&logoColor=e9dcc0" /></a>
+<a href="https://www.linkedin.com/in/mehul1three/"><img src="https://img.shields.io/badge/linkedin-16264a?style=for-the-badge&logo=linkedin&logoColor=e9dcc0" /></a>
+<a href="mailto:kalemehul13@gmail.com"><img src="https://img.shields.io/badge/gmail-7a1f3d?style=for-the-badge&logo=gmail&logoColor=e9dcc0" /></a>
 
 </div>
 
@@ -50,12 +49,12 @@
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=mehul1three&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=9fb0cc&icon_color=a50044&title_color=e9dcc0" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehul1three&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=9fb0cc&title_color=e9dcc0" />
+<img src="https://streak-stats.demolab.com/?user=mehul1three&hide_border=true&background=00000000&stroke=2b3446&ring=a50044&fire=c1123f&currStreakNum=e9dcc0&currStreakLabel=9fb0cc&sideNums=e9dcc0&sideLabels=9fb0cc&dates=7d8ba6&excludeDaysLabel=7d8ba6" alt="current streak, longest streak and total contributions" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehul1three&bg_color=0b1226&color=e9dcc0&line=a50044&point=e9dcc0&area=true&area_color=16264a&hide_border=true&custom_title=contributions" width="90%" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehul1three&theme=github_dark" alt="repositories per language" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehul1three&theme=github_dark" alt="most committed language" />
 
 <br>
 
@@ -71,39 +70,52 @@
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
-#### [visoto](https://github.com/mehul1three/visoto)
-your room is the level
+<h4 align="center"><a href="https://github.com/mehul1three/visoto">visoto</a></h4>
+
+<p align="center"><b>your room is the level</b></p>
 
 <sub>photograph anything and it becomes a playable platformer. objects get physics from what they **are** — cushions bounce, hot coffee is a hazard, glass is slippery.</sub>
 
+<p align="center">
 <a href="https://playground-kohl-nine.vercel.app"><img src="https://img.shields.io/badge/live-7a1f3d?style=flat-square&logoColor=e9dcc0" /></a>
 <img src="https://img.shields.io/badge/typescript-16264a?style=flat-square&logo=typescript&logoColor=e9dcc0" />
+</p>
 
 </td>
+
 <td width="33%" valign="top">
 
-#### [fine-print](https://github.com/mehul1three/fine-print)
-read it before you sign it
+<h4 align="center"><a href="https://github.com/mehul1three/PathCheck">PathCheck</a></h4>
 
-<sub>paste a lease or a contract and every clause that can hurt you comes back ranked by severity, explained in plain english, and highlighted in the original.</sub>
-
-<a href="https://fine-print-gamma.vercel.app"><img src="https://img.shields.io/badge/live-7a1f3d?style=flat-square&logoColor=e9dcc0" /></a>
-<img src="https://img.shields.io/badge/typescript-16264a?style=flat-square&logo=typescript&logoColor=e9dcc0" />
-
-</td>
-<td width="33%" valign="top">
-
-#### [PathCheck](https://github.com/mehul1three/PathCheck)
-static timing analysis for digital circuits
+<p align="center"><b>static timing analysis for digital circuits</b></p>
 
 <sub>c++17, zero dependencies. arrival and required times, slack, critical paths, json reports, and a no-build browser viewer.</sub>
 
+<p align="center">
 <img src="https://img.shields.io/badge/c%2B%2B17-16264a?style=flat-square&logo=cplusplus&logoColor=e9dcc0" />
 <img src="https://img.shields.io/badge/zero%20deps-7a1f3d?style=flat-square&logoColor=e9dcc0" />
+</p>
 
 </td>
+
+<td width="33%" valign="top">
+
+<h4 align="center"><a href="https://github.com/mehul1three/fine-print">fine-print</a></h4>
+
+<p align="center"><b>read it before you sign it</b></p>
+
+<sub>paste a lease or a contract and every clause that can hurt you comes back ranked by severity, explained in plain english, and highlighted in the original.</sub>
+
+<p align="center">
+<a href="https://fine-print-gamma.vercel.app"><img src="https://img.shields.io/badge/live-7a1f3d?style=flat-square&logoColor=e9dcc0" /></a>
+<img src="https://img.shields.io/badge/typescript-16264a?style=flat-square&logo=typescript&logoColor=e9dcc0" />
+</p>
+
+</td>
+
 </tr>
 </table>
 
@@ -115,12 +127,18 @@ static timing analysis for digital circuits
 
 <div align="center">
 
-competitive programming, half-finished side projects, and reading compiler source
-at hours i should not be awake for.
+cse student in india, working somewhere between the compiler and the interface.
+**c++** when a thing has to be exact — timing graphs, slack, the path that fails first.
+**typescript** when someone other than me has to use it.
 
-<br><br>
+most of what i build started as an annoyance i refused to live with: a contract
+nobody reads, a photo that should have been a level, a timing report that should
+have been a picture instead of a wall of numbers.
 
-open to internships and engineering roles. if the fixture looks interesting, get in touch.
+football and f1 the rest of the time. competitive programming, half-finished side
+projects, and reading compiler source at hours i should not be awake for.
+
+**open to internships and engineering roles.** if the fixture looks interesting, get in touch.
 
 </div>
 
