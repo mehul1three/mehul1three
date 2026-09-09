@@ -43,7 +43,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=mehul1three&hide_border=true&background=00000000&stroke=2b3446&ring=a50044&fire=c1123f&currStreakNum=e9dcc0&currStreakLabel=9fb0cc&sideNums=e9dcc0&sideLabels=9fb0cc&dates=7d8ba6&excludeDaysLabel=7d8ba6" alt="Current streak, longest streak and total contributions" />
+<img src="https://streak-stats.demolab.com/?user=mehul1three&hide_border=true&background=00000000&stroke=2b3446&ring=a50044&fire=c1123f&currStreakNum=e9dcc0&currStreakLabel=9fb0cc&sideNums=e9dcc0&sideLabels=9fb0cc&dates=7d8ba6&excludeDaysLabel=7d8ba6&v=20260909" alt="Current streak, longest streak and total contributions" />
 
 <br><br>
 
